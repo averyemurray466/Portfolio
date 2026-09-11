@@ -1,0 +1,5 @@
+This is just a short note.
+It's probably too small to
+get any compression, but
+it does have some repeated
+character pairs.

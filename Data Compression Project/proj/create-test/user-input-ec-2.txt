@@ -1,0 +1,4 @@
+add rea"d m"e.txt
+show
+save "my archive.snk"
+quit      

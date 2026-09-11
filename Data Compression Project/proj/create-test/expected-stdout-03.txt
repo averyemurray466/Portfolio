@@ -1,0 +1,8 @@
+cmd> show
+Archive is empty
+cmd> add alphabet.txt
+cmd> show
+File                     orig     comp
+alphabet.txt               27       30
+cmd> save arc.snk
+cmd> quit

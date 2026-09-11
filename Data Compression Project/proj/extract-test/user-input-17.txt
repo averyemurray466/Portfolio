@@ -1,0 +1,5 @@
+show
+remove long-file-name-that-requires-more-than-20-chars.txt
+show
+extract preamble.txt
+quit

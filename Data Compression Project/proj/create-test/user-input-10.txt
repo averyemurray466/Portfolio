@@ -1,0 +1,9 @@
+add aaaa.txt
+add 10K.bin
+add note.txt
+show
+add hamlet.txt
+remove aaaa.txt
+show
+save arc.snk
+quit

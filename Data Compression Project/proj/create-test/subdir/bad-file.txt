@@ -1,0 +1,5 @@
+This file is in a subdirectory.  The program should complain if we
+try to add it to an archive.  Really, this type of file is prohibited
+because it would make the archive program more compilicated if we
+added code to handle it, so we just permit adding files in the current
+directory.

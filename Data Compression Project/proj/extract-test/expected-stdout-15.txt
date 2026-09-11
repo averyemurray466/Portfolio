@@ -1,0 +1,13 @@
+cmd> show
+File                     orig     comp
+abx.txt                    55       43
+empty.txt                   0        0
+note.txt                  123      124
+cmd> remove abx.txt
+cmd> add user-input-15.txt
+cmd> show
+File                     orig     comp
+empty.txt                   0        0
+note.txt                  123      124
+user-input-15.txt          52       55
+cmd> quit

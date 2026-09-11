@@ -1,0 +1,5 @@
+add "read me.txt"
+show
+remove "read me.txt"
+show
+quit      

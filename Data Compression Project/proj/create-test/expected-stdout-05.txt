@@ -1,0 +1,12 @@
+cmd> add aaaa.txt
+cmd> add abx.txt
+cmd> add alphabet.txt
+cmd> add long-file-name-that-requires-more-than-20-chars.txt
+cmd> show
+File                                                    orig     comp
+aaaa.txt                                                2496       53
+abx.txt                                                   55       43
+alphabet.txt                                              27       30
+long-file-name-that-requires-more-than-20-chars.txt       83       83
+cmd> save arc.snk
+cmd> quit

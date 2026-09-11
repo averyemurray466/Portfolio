@@ -1,0 +1,7 @@
+cmd> show
+File                     orig     comp
+10K.bin                 16384    12149
+hamlet.txt             207031   107962
+note.txt                  123      124
+cmd> extract hamlet.txt
+cmd> quit

@@ -1,0 +1,10 @@
+File                     orig     comp
+aaaa.txt                 2496       53
+empty.txt                   0        0
+preamble.txt              328      293
+File                                                    orig     comp
+aaaa.txt                                                2496       53
+empty.txt                                                  0        0
+long-file-name-that-requires-more-than-20-chars.txt       83       83
+note.txt                                                 123      124
+preamble.txt                                             328      293

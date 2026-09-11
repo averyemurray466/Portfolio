@@ -1,0 +1,15 @@
+cmd> add note.txt
+cmd> show
+File                     orig     comp
+note.txt                  123      124
+cmd> add note.txt
+Archive already contains file
+cmd> show
+File                     orig     comp
+note.txt                  123      124
+cmd> remove abx.txt
+Archive doesn't contain file
+cmd> remove note.txt
+cmd> show
+Archive is empty
+cmd> quit

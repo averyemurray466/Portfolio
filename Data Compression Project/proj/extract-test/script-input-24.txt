@@ -1,0 +1,11 @@
+show
+
+# This should fail, terminating the script.
+extract missing-file.txt
+
+# The rest of these commands shouldn't run.
+add script-input-24.txt
+
+show
+
+quit

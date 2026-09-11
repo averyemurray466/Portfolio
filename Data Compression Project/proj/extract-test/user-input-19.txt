@@ -1,0 +1,3 @@
+show
+extract hamlet.txt
+quit

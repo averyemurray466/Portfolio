@@ -1,0 +1,21 @@
+# It's OK to have comments in the input.
+add 225-byte-values.bin
+# The file above isn't too long, but it has 225 different byte values,
+# it will need to be handled as two blocks.
+
+# And, you can have blank lines, like the one above and below this line.
+
+show
+
+# These comments would be echoed if the program was run
+# in interactive mode, but not in script mode.
+
+save arc.snk
+
+   # It's OK to have some extra whitespace at the start of a comment.
+
+# Time to exit.
+quit
+
+# The program will exit before it even gets to this comment.
+# That's OK.

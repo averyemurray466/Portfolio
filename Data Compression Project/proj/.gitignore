@@ -1,0 +1,20 @@
+# Executables
+compressTest
+bufferTest
+snark
+
+# Temporary files created by tests.
+create-test/stdout.txt
+create-test/stderr.txt
+create-test/arc.snk
+extract-test/stdout.txt
+extract-test/stderr.txt
+extract-test/alphabet.txt
+extract-test/preamble.txt
+extract-test/10K.bin
+extract-test/hamlet.txt
+
+# files for code coverage
+*.gcda
+*.gcno
+*.gcov

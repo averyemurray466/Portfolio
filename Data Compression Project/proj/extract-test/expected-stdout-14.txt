@@ -1,0 +1,4 @@
+cmd> show
+File                     orig     comp
+alphabet.txt               27       30
+cmd> 

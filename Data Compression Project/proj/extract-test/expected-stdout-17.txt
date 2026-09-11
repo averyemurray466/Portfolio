@@ -1,0 +1,14 @@
+cmd> show
+File                                                    orig     comp
+abx.txt                                                   55       43
+empty.txt                                                  0        0
+long-file-name-that-requires-more-than-20-chars.txt       83       83
+preamble.txt                                             328      293
+cmd> remove long-file-name-that-requires-more-than-20-chars.txt
+cmd> show
+File                     orig     comp
+abx.txt                    55       43
+empty.txt                   0        0
+preamble.txt              328      293
+cmd> extract preamble.txt
+cmd> quit

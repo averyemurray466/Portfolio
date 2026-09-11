@@ -1,0 +1,10 @@
+add abx.txt
+add      aaaa.txt
+   add preamble.txt
+     add       alphabet.txt
+
+show
+   remove        alphabet.txt       
+show        
+save          arc.snk
+      quit      

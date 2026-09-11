@@ -1,0 +1,5 @@
+show
+remove abx.txt
+add user-input-15.txt
+show
+quit

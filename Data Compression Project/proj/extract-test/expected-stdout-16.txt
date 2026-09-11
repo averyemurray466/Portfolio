@@ -1,0 +1,6 @@
+cmd> show
+File                     orig     comp
+abx.txt                    55       43
+alphabet.txt               27       30
+cmd> extract alphabet.txt
+cmd> quit

@@ -1,0 +1,2 @@
+cmd> save arc.snk
+cmd> quit

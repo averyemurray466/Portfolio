@@ -1,0 +1,5 @@
+File                     orig     comp
+10K.bin                 16384    12149
+File                     orig     comp
+10K.bin                 16384    12149
+64K-zeros.bin           65536      176

@@ -1,0 +1,6 @@
+add 10K.bin
+show
+add 64K-zeros.bin
+show
+save arc.snk
+quit

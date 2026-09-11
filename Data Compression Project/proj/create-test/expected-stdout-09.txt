@@ -1,0 +1,2 @@
+File                     orig     comp
+225-byte-values.bin      2250     2191

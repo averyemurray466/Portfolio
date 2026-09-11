@@ -1,0 +1,8 @@
+cmd> add alphabet.txt
+cmd> add abx.txt
+cmd> show
+File                     orig     comp
+abx.txt                    55       43
+alphabet.txt               27       30
+cmd> save arc.snk
+cmd> quit

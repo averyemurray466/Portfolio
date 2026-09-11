@@ -1,0 +1,3 @@
+show
+extract "read me.txt"
+quit

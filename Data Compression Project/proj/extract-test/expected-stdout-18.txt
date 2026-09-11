@@ -1,0 +1,4 @@
+File                     orig     comp
+10K.bin                 16384    12149
+225-byte-values.bin      2250     2191
+64K-zeros.bin           65536      176

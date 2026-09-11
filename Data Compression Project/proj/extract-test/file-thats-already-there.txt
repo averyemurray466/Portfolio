@@ -1,0 +1,3 @@
+This is a file to help with an error test.  I try to extract a copy of
+this file from an archive and it should refuse to overwrite a file
+that's already there.

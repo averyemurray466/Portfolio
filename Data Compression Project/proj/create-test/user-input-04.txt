@@ -1,0 +1,5 @@
+add alphabet.txt
+add abx.txt
+show
+save arc.snk
+quit

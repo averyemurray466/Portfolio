@@ -1,0 +1,8 @@
+cmd> add "read me.txt"
+cmd> show
+File                     orig     comp
+read me.txt               114      111
+cmd> remove "read me.txt"
+cmd> show
+Archive is empty
+cmd> quit      

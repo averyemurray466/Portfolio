@@ -1,0 +1,11 @@
+cmd> show
+File                             orig     comp
+abx.txt                            55       43
+empty.txt                           0        0
+file-thats-already-there.txt      160      154
+note.txt                          123      124
+cmd> extract missing-file.txt
+Archive doesn't contain file
+cmd> extract file-thats-already-there.txt
+Output file already exists
+cmd> quit

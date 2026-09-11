@@ -1,0 +1,19 @@
+cmd> add abx.txt
+cmd> add      aaaa.txt
+cmd>    add preamble.txt
+cmd>      add       alphabet.txt
+cmd> 
+cmd> show
+File                     orig     comp
+aaaa.txt                 2496       53
+abx.txt                    55       43
+alphabet.txt               27       30
+preamble.txt              328      293
+cmd>    remove        alphabet.txt       
+cmd> show        
+File                     orig     comp
+aaaa.txt                 2496       53
+abx.txt                    55       43
+preamble.txt              328      293
+cmd> save          arc.snk
+cmd>       quit      

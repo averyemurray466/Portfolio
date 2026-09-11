@@ -1,0 +1,17 @@
+cmd> add aaaa.txt
+cmd> add 10K.bin
+cmd> add note.txt
+cmd> show
+File                     orig     comp
+10K.bin                 16384    12149
+aaaa.txt                 2496       53
+note.txt                  123      124
+cmd> add hamlet.txt
+cmd> remove aaaa.txt
+cmd> show
+File                     orig     comp
+10K.bin                 16384    12149
+hamlet.txt             207031   107962
+note.txt                  123      124
+cmd> save arc.snk
+cmd> quit
