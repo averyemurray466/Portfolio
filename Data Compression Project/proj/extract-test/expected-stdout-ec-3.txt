@@ -1,6 +1,0 @@
-cmd> show
-File                     orig     comp
-read me.txt               114      111
-cmd> remove "missing quote
-Unterminated quote
-cmd> quit

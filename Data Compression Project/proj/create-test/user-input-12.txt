@@ -1,8 +1,0 @@
-add note.txt
-show
-add note.txt
-show
-remove abx.txt
-remove note.txt
-show
-quit

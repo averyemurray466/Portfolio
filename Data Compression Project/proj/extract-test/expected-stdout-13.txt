@@ -1,3 +1,0 @@
-cmd> show
-Archive is empty
-cmd> quit

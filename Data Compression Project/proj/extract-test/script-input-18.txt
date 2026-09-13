@@ -1,3 +1,0 @@
-show
-extract 10K.bin
-quit

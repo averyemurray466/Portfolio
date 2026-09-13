@@ -1,5 +1,0 @@
-show
-add alphabet.txt
-show
-save arc.snk
-quit

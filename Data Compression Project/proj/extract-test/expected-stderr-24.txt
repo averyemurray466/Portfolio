@@ -1,2 +1,0 @@
-extract missing-file.txt
-Archive doesn't contain file

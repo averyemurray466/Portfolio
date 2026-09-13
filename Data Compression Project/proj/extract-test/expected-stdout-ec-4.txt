@@ -1,7 +1,0 @@
-cmd> show
-File                     orig     comp
-alphabet.txt               27       30
-note.txt                  123      124
-read me.txt               114      111
-cmd> extract "read me.txt"
-cmd> quit

@@ -1,2 +1,0 @@
-File                     orig     comp
-alphabet.txt               27       30

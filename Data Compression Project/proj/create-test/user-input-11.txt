@@ -1,7 +1,0 @@
-add note.txt
-show
-add file-that-doesnt-exist.txt
-show
-add subdir/bad-file.txt
-show
-quit

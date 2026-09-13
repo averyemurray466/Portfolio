@@ -1,3 +1,0 @@
-show
-extract alphabet.txt
-quit

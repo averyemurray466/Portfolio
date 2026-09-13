@@ -1,4 +1,0 @@
-show
-extract missing-file.txt
-extract file-thats-already-there.txt
-quit

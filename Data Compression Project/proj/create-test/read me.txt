@@ -1,3 +1,0 @@
-This is a file with a space in the name.
-To use the name of this file in a command,
-you have to put it in quotes.
